@@ -1,3 +1,2 @@
-# hello-world
-This is difficult than programming
-And we think that it is easy.
+
+It is the default printing statement when we are learning any new language.
